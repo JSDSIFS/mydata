@@ -1,0 +1,18 @@
+{
+	"data": [{
+			"Ename": "Oliver",
+			"age": 25
+		},
+		{
+			"Ename": "Amelia",
+			"age": 20
+		},
+		{
+			"Ename": "Lucas",
+			"age": 16
+		}, {
+			"Ename": "Ava",
+			"age": 14
+		}
+	]
+}
