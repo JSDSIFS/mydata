@@ -1,0 +1,44 @@
+ [
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "age":25,
+      "cid":1003,
+      "isActive":"yes"
+    },
+    {
+      "firstName": "Willie",
+      "lastName": "Aames",
+      "age":45,
+      "cid":1004,
+      "isActive":"no"
+    },
+    {
+      "firstName": "Josh",
+      "lastName": "Allen",
+      "age":35,
+      "cid":1002,
+      "isActive":"yes"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Arden",
+      "age":30,
+      "cid":1001,
+      "isActive":"no"
+    },
+   {
+      "firstName": "John",
+      "lastName": "Thomas",
+      "age":34,
+      "cid":1005,
+      "isActive":"yes"
+    },
+    {
+      "firstName": "Valley",
+      "lastName": "Smith",
+      "age":24,
+      "cid":1006,
+      "isActive":"no"
+    }
+  ]
