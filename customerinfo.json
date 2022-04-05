@@ -3,42 +3,42 @@
       "firstName": "John",
       "lastName": "Smith",
       "age":25,
-      "cid":1003,
-      "isActive":"yes"
+      "eid":1003,
+      "status":{"isActive":"yes"}
     },
     {
       "firstName": "Willie",
       "lastName": "Aames",
       "age":45,
-      "cid":1004,
-      "isActive":"no"
+      "eid":1004,
+      "status":{"isActive":"no","Reason":"Resigned"}
     },
     {
       "firstName": "Josh",
       "lastName": "Allen",
       "age":35,
-      "cid":1002,
-      "isActive":"yes"
+      "eid":1002,
+      "status":{"isActive":"yes"}
     },
     {
       "firstName": "Eve",
       "lastName": "Arden",
       "age":30,
-      "cid":1001,
-      "isActive":"no"
+      "eid":1001,
+      "status":{"isActive":"no", "Reason":"Resigned"}
     },
    {
       "firstName": "John",
       "lastName": "Thomas",
       "age":34,
-      "cid":1005,
-      "isActive":"yes"
+      "eid":1005,
+      "status":{"isActive":"yes"}
     },
     {
       "firstName": "Valley",
       "lastName": "Smith",
       "age":24,
-      "cid":1006,
-      "isActive":"no"
+      "eid":1006,
+      "status":{"isActive":"no","Reason":"Resigned"}
     }
   ]
